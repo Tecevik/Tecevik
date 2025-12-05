@@ -22,7 +22,7 @@
 
 ## 📫 Связь со мной
 
-[![Telegram](https://img.shields.io/badge/💬_Telegram-ArtemJanS-blue?style=for-the-badge)](https://t.me/ArtemJane6)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-ArtemJanS-blue?style=for-the-badge)](https://t.me/ArtemJanS)
 [![Email](https://img.shields.io/badge/📧_Email-forspamseepanek@gmail.com-red?style=for-the-badge)](mailto:forspamseepanek@gmail.com)
 
 ---
