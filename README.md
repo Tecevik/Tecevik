@@ -2,9 +2,6 @@
 
 # Привет! 👋 Я Артём-Жан
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&center=true&width=435&lines=AI+Engineering+Student;Python+Developer;ИТМО+Университет" alt="Typing SVG" />
-<img src="https://media.tenor.com/4EhUju6UJtEAAAAi/grrr-rawr.gif" width="300" alt="Awesome Dinosaur">
-
 <p>
   <a href="https://t.me/ArtemJanS"><img src="https://img.shields.io/badge/Telegram-@ArtemJanS-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:forspamseepanek@gmail.com"><img src="https://img.shields.io/badge/Email-forspamseepanek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -34,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## Статистика
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tecevik&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats">
@@ -45,8 +42,10 @@
 
 ---
 
-## 🚀 Проекты
+##  Проекты
 ### 📘 [Лабораторная работа по Git](https://github.com/Tecevik/lab3_repo_505068)
+### [Frontend & backend opensourse labs](https://github.com/itmo-ai/itmo-open-source-list)
+### [Analyst agent](https://github.com/HammonDDDDD/AIST-Business-analyst-agent)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Tecevik/lab3_repo_505068?style=flat-square)
 
