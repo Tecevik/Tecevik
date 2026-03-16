@@ -43,39 +43,15 @@
 ---
 
 ##  Проекты
-### 📘 [Лабораторная работа по Git](https://github.com/Tecevik/lab3_repo_505068)
 ### [Frontend & backend opensourse labs](https://github.com/itmo-ai/itmo-open-source-list)
 ### [Analyst agent](https://github.com/HammonDDDDD/AIST-Business-analyst-agent)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Tecevik/lab3_repo_505068?style=flat-square)
 
-Лабораторная работа №3 — работа с Git, ветвление, разрешение конфликтов
-
 ---
-
-## 📫 Связь
-<div align="center">
-📧 **Email:** [forspameexample@gmail.com](mailto:forspameexample@gmail.com)
-💬 **Telegram:** [@ArtemJanS](https://t.me/ArtemJanS)
-🔗 **GitHub:** [@Tecevik](https://github.com/Tecevik)
-</div>
-
----
-
-<p align="center">
-  
-  <a href="https://t.me/ArtemJanS"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  
-  <a href="mailto:forspamseepanek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  
-  <a href="https://github.com/Tecevik"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  
-</p>
-
----
-
 <p align="center">
   <a href="https://t.me/ArtemJanS"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:forspamseepanek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Tecevik"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+
