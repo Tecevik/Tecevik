@@ -36,9 +36,13 @@
 ## Статистика
 
 <div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Tecevik&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats">
+  
 <img src="https://streak-stats.demolab.com?user=Tecevik&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tecevik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
