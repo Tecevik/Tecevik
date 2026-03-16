@@ -1,27 +1,70 @@
 <div align="center">
 
-# 🦖 Welcome to My GitHub Profile!
+# Привет! 👋 Я Артём-Жан
 
-<img src="https://media.tenor.com/4EhUju6UJtEAAAAi/grrr-rawr.gif" width="400" alt="Awesome Dinosaur">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&center=true&width=435&lines=AI+Engineering+Student;Python+Developer;ИТМО+Университет" alt="Typing SVG" />
+<img src="https://media.tenor.com/4EhUju6UJtEAAAAi/grrr-rawr.gif" width="300" alt="Awesome Dinosaur">
 
-##  Привет! Я Тecevik
-**Студент ИТМО | AI Engineering | Разработчик**
+<p>
+  <a href="https://t.me/ArtemJanS"><img src="https://img.shields.io/badge/Telegram-@ArtemJanS-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:forspamseepanek@gmail.com"><img src="https://img.shields.io/badge/Email-forspamseepanek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Tecevik"><img src="https://img.shields.io/badge/GitHub-Tecevik-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-##  Мои проекты
-
-###  Лабораторная работа по Git
-[![Git Lab](https://img.shields.io/badge/🚀_Git_Lab_3-View_Repository-black?style=for-the-badge)](https://github.com/Tecevik/lab3_repo_505068)
-
-
-##  Связь со мной
-
-[![Telegram](https://img.shields.io/badge/💬_Telegram-ArtemJanS-blue?style=for-the-badge)](https://t.me/ArtemJanS)
-[![Email](https://img.shields.io/badge/📧_Email-forspamseepanek@gmail.com-red?style=for-the-badge)](mailto:forspamseepanek@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Tecevik" alt="views">
+</div>
 
 ---
 
+##  Обо мне
+ **Студент 1 курса** направления **"Инженерия искусственного интеллекта"** в [Университете ИТМО](https://itmo.ru)
+ Интересуюсь разработкой на Python, машинным обучением 
+---
+
+## Технологии и инструменты
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode&theme=dark" />
+  </a>
+</p>
+**Ключевые направления:**
+-  Искусственный интеллект и ML
+-  Python-разработка
+-  Автоматизация процессов
+
+---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tecevik&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Tecevik&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Langs">
+<img src="https://streak-stats.demolab.com?user=Tecevik&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tecevik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
+
+---
+
+## 🚀 Проекты
+### 📘 [Лабораторная работа по Git](https://github.com/Tecevik/lab3_repo_505068)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Tecevik/lab3_repo_505068?style=flat-square)
+
+Лабораторная работа №3 — работа с Git, ветвление, разрешение конфликтов
+
+---
+
+## 📫 Связь
+<div align="center">
+📧 **Email:** [forspameexample@gmail.com](mailto:forspameexample@gmail.com)
+💬 **Telegram:** [@ArtemJanS](https://t.me/ArtemJanS)
+🔗 **GitHub:** [@Tecevik](https://github.com/Tecevik)
+</div>
+
+---
+
+<p align="center">
+  <a href="https://t.me/ArtemJanS"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:forspamseepanek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Tecevik"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
