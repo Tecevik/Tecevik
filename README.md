@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode&theme=dark" />
   </a>
 </p>
-### Ключевые направления:
+ Ключевые направления:
 -  Искусственный интеллект и ML
 -  Python-разработка
 -  Автоматизация процессов
