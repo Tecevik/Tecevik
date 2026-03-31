@@ -50,8 +50,7 @@
 ##  Проекты
 ### [Frontend & backend opensourse labs](https://github.com/itmo-ai/itmo-open-source-list)
 ### [Analyst agent](https://github.com/HammonDDDDD/AIST-Business-analyst-agent)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Tecevik/lab3_repo_505068?style=flat-square)
+
 
 ---
 <p align="center">
